@@ -1,0 +1,10 @@
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\bin\Debug\netcoreapp2.1\MaximumSum.deps.json
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\bin\Debug\netcoreapp2.1\MaximumSum.runtimeconfig.json
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\bin\Debug\netcoreapp2.1\MaximumSum.runtimeconfig.dev.json
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\bin\Debug\netcoreapp2.1\MaximumSum.dll
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\bin\Debug\netcoreapp2.1\MaximumSum.pdb
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\obj\Debug\netcoreapp2.1\MaximumSum.csproj.CoreCompileInputs.cache
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\obj\Debug\netcoreapp2.1\MaximumSum.AssemblyInfoInputs.cache
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\obj\Debug\netcoreapp2.1\MaximumSum.AssemblyInfo.cs
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\obj\Debug\netcoreapp2.1\MaximumSum.dll
+D:\Projects\C#Fundamentals\C#Advanced\MultidimensionalArrays-Exercise\MaximumSUm\obj\Debug\netcoreapp2.1\MaximumSum.pdb
