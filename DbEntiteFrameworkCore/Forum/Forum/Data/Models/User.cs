@@ -1,0 +1,29 @@
+﻿
+using System.Collections.Generic;
+
+namespace Forum.Data.Models
+{
+    public class User
+    {
+        public User()
+        {
+        }
+
+        public User(string username, string pass)
+        {
+            this.Username = username;
+            this.Password = pass;
+        }
+
+        public int Id { get; set; }
+
+        public string Username { get; set; }
+
+        public string Password { get; set; }
+
+        public ICollection<Post> Posts { get; set; } = new List<Post>();
+
+        public ICollection<Reply> Replies { get; set; } = new List<Reply>();
+
+    }
+}

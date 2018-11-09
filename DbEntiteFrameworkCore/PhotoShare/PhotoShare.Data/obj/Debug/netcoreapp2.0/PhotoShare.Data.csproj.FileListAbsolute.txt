@@ -1,0 +1,12 @@
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.deps.json
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Data.pdb
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.dll
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\bin\Debug\netcoreapp2.0\PhotoShare.Models.pdb
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.AssemblyInfo.cs
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.csproj.CopyComplete
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.dll
+C:\Users\Ivan Nenov\Desktop\PhotoShare\PhotoShare.Data\obj\Debug\netcoreapp2.0\PhotoShare.Data.pdb

@@ -1,0 +1,17 @@
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.deps.json
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.json
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.dll
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.pdb
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Data.dll
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Initializer.dll
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Models.dll
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Data.pdb
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Initializer.pdb
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\bin\Debug\netcoreapp2.0\BookShop.Models.pdb
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.dll
+C:\Users\Stoyan\Desktop\DB\2. DB-Advanced-EF-Core\07. DB-Advanced-Advanced-Querying\BookShop\BookShop.StartUp\obj\Debug\netcoreapp2.0\BookShop.pdb
