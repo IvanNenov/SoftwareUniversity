@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\bin\Debug\netcoreapp1.1\SumReversedNumbers.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\bin\Debug\netcoreapp1.1\SumReversedNumbers.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\bin\Debug\netcoreapp1.1\SumReversedNumbers.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\bin\Debug\netcoreapp1.1\SumReversedNumbers.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\bin\Debug\netcoreapp1.1\SumReversedNumbers.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\obj\Debug\netcoreapp1.1\SumReversedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\obj\Debug\netcoreapp1.1\SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\obj\Debug\netcoreapp1.1\SumReversedNumbers.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\obj\Debug\netcoreapp1.1\SumReversedNumbers.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SumReversedNumbers\obj\Debug\netcoreapp1.1\SumReversedNumbers.pdb

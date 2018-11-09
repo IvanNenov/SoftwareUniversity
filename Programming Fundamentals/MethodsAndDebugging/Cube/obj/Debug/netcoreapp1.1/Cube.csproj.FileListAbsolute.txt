@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\bin\Debug\netcoreapp1.1\Cube.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\bin\Debug\netcoreapp1.1\Cube.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\bin\Debug\netcoreapp1.1\Cube.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\bin\Debug\netcoreapp1.1\Cube.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\bin\Debug\netcoreapp1.1\Cube.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\obj\Debug\netcoreapp1.1\Cube.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\obj\Debug\netcoreapp1.1\Cube.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\obj\Debug\netcoreapp1.1\Cube.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\obj\Debug\netcoreapp1.1\Cube.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Cube\obj\Debug\netcoreapp1.1\Cube.pdb

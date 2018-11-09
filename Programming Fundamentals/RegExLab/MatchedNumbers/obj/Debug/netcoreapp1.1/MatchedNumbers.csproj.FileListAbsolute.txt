@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\bin\Debug\netcoreapp1.1\MatchedNumbers.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\bin\Debug\netcoreapp1.1\MatchedNumbers.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\bin\Debug\netcoreapp1.1\MatchedNumbers.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\bin\Debug\netcoreapp1.1\MatchedNumbers.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\bin\Debug\netcoreapp1.1\MatchedNumbers.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\obj\Debug\netcoreapp1.1\MatchedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\obj\Debug\netcoreapp1.1\MatchedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\obj\Debug\netcoreapp1.1\MatchedNumbers.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\obj\Debug\netcoreapp1.1\MatchedNumbers.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchedNumbers\obj\Debug\netcoreapp1.1\MatchedNumbers.pdb

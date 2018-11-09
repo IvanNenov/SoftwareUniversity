@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\bin\Debug\netcoreapp1.1\ReverseArrayOfInteger.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\bin\Debug\netcoreapp1.1\ReverseArrayOfInteger.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\bin\Debug\netcoreapp1.1\ReverseArrayOfInteger.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\bin\Debug\netcoreapp1.1\ReverseArrayOfInteger.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\bin\Debug\netcoreapp1.1\ReverseArrayOfInteger.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\obj\Debug\netcoreapp1.1\ReverseArrayOfInteger.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\obj\Debug\netcoreapp1.1\ReverseArrayOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\obj\Debug\netcoreapp1.1\ReverseArrayOfInteger.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\obj\Debug\netcoreapp1.1\ReverseArrayOfInteger.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\ReverseArrayOfInteger\obj\Debug\netcoreapp1.1\ReverseArrayOfInteger.pdb

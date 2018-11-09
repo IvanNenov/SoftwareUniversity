@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\bin\Debug\netcoreapp1.1\RotateAndSum.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\bin\Debug\netcoreapp1.1\RotateAndSum.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\bin\Debug\netcoreapp1.1\RotateAndSum.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\bin\Debug\netcoreapp1.1\RotateAndSum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\bin\Debug\netcoreapp1.1\RotateAndSum.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\obj\Debug\netcoreapp1.1\RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\obj\Debug\netcoreapp1.1\RotateAndSum.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\obj\Debug\netcoreapp1.1\RotateAndSum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\obj\Debug\netcoreapp1.1\RotateAndSum.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\RotateAndSum\obj\Debug\netcoreapp1.1\RotateAndSum.csprojResolveAssemblyReference.cache

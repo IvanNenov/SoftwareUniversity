@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\bin\Debug\netcoreapp1.1\RestorantDiscount.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\bin\Debug\netcoreapp1.1\RestorantDiscount.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\bin\Debug\netcoreapp1.1\RestorantDiscount.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\bin\Debug\netcoreapp1.1\RestorantDiscount.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\bin\Debug\netcoreapp1.1\RestorantDiscount.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\obj\Debug\netcoreapp1.1\RestorantDiscount.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\obj\Debug\netcoreapp1.1\RestorantDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\obj\Debug\netcoreapp1.1\RestorantDiscount.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\obj\Debug\netcoreapp1.1\RestorantDiscount.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\RestorantDiscount\obj\Debug\netcoreapp1.1\RestorantDiscount.pdb

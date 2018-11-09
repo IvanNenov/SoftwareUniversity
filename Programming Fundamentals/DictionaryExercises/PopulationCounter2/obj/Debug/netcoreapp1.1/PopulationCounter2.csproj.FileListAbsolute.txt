@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\bin\Debug\netcoreapp1.1\PopulationCounter2.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\bin\Debug\netcoreapp1.1\PopulationCounter2.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\bin\Debug\netcoreapp1.1\PopulationCounter2.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\bin\Debug\netcoreapp1.1\PopulationCounter2.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\bin\Debug\netcoreapp1.1\PopulationCounter2.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\obj\Debug\netcoreapp1.1\PopulationCounter2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\obj\Debug\netcoreapp1.1\PopulationCounter2.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\obj\Debug\netcoreapp1.1\PopulationCounter2.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\PopulationCounter2\obj\Debug\netcoreapp1.1\PopulationCounter2.pdb

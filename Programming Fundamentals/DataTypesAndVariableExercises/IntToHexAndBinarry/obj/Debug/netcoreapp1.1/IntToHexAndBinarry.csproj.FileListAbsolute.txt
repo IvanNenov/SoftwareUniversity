@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\bin\Debug\netcoreapp1.1\IntToHexAndBinarry.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\bin\Debug\netcoreapp1.1\IntToHexAndBinarry.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\bin\Debug\netcoreapp1.1\IntToHexAndBinarry.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\bin\Debug\netcoreapp1.1\IntToHexAndBinarry.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\bin\Debug\netcoreapp1.1\IntToHexAndBinarry.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\obj\Debug\netcoreapp1.1\IntToHexAndBinarry.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\obj\Debug\netcoreapp1.1\IntToHexAndBinarry.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\obj\Debug\netcoreapp1.1\IntToHexAndBinarry.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\obj\Debug\netcoreapp1.1\IntToHexAndBinarry.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\IntToHexAndBinarry\obj\Debug\netcoreapp1.1\IntToHexAndBinarry.pdb

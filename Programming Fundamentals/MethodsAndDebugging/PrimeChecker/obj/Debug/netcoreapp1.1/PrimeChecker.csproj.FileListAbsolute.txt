@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\bin\Debug\netcoreapp1.1\PrimeChecker.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\bin\Debug\netcoreapp1.1\PrimeChecker.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\bin\Debug\netcoreapp1.1\PrimeChecker.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\bin\Debug\netcoreapp1.1\PrimeChecker.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\bin\Debug\netcoreapp1.1\PrimeChecker.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\obj\Debug\netcoreapp1.1\PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\obj\Debug\netcoreapp1.1\PrimeChecker.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\obj\Debug\netcoreapp1.1\PrimeChecker.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\PrimeChecker\obj\Debug\netcoreapp1.1\PrimeChecker.pdb

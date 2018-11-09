@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve Of Eratosthenes.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve Of Eratosthenes.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve Of Eratosthenes.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve Of Eratosthenes.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\bin\Debug\netcoreapp1.1\Sieve Of Eratosthenes.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\obj\Debug\netcoreapp1.1\Sieve Of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\obj\Debug\netcoreapp1.1\Sieve Of Eratosthenes.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\obj\Debug\netcoreapp1.1\Sieve Of Eratosthenes.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\Sieve Of Eratosthenes\obj\Debug\netcoreapp1.1\Sieve Of Eratosthenes.pdb

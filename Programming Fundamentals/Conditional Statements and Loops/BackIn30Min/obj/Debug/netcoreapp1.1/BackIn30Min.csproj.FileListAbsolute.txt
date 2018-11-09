@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\bin\Debug\netcoreapp1.1\BackIn30Min.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\bin\Debug\netcoreapp1.1\BackIn30Min.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\bin\Debug\netcoreapp1.1\BackIn30Min.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\bin\Debug\netcoreapp1.1\BackIn30Min.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\bin\Debug\netcoreapp1.1\BackIn30Min.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\obj\Debug\netcoreapp1.1\BackIn30Min.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\obj\Debug\netcoreapp1.1\BackIn30Min.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\obj\Debug\netcoreapp1.1\BackIn30Min.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\obj\Debug\netcoreapp1.1\BackIn30Min.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\BackIn30Min\obj\Debug\netcoreapp1.1\BackIn30Min.pdb

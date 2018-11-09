@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\bin\Debug\netcoreapp1.1\ChangeList.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\bin\Debug\netcoreapp1.1\ChangeList.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\bin\Debug\netcoreapp1.1\ChangeList.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\bin\Debug\netcoreapp1.1\ChangeList.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\bin\Debug\netcoreapp1.1\ChangeList.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\obj\Debug\netcoreapp1.1\ChangeList.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\obj\Debug\netcoreapp1.1\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\obj\Debug\netcoreapp1.1\ChangeList.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\obj\Debug\netcoreapp1.1\ChangeList.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ChangeList\obj\Debug\netcoreapp1.1\ChangeList.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\bin\Debug\netcoreapp1.1\Numbers in Reversed Order.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\bin\Debug\netcoreapp1.1\Numbers in Reversed Order.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\bin\Debug\netcoreapp1.1\Numbers in Reversed Order.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\bin\Debug\netcoreapp1.1\Numbers in Reversed Order.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\bin\Debug\netcoreapp1.1\Numbers in Reversed Order.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\obj\Debug\netcoreapp1.1\Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\obj\Debug\netcoreapp1.1\Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\obj\Debug\netcoreapp1.1\Numbers in Reversed Order.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\obj\Debug\netcoreapp1.1\Numbers in Reversed Order.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\Numbers in Reversed Order\obj\Debug\netcoreapp1.1\Numbers in Reversed Order.pdb

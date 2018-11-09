@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\bin\Debug\netcoreapp1.1\MaxEnreesend.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\bin\Debug\netcoreapp1.1\MaxEnreesend.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\bin\Debug\netcoreapp1.1\MaxEnreesend.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\bin\Debug\netcoreapp1.1\MaxEnreesend.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\bin\Debug\netcoreapp1.1\MaxEnreesend.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\obj\Debug\netcoreapp1.1\MaxEnreesend.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\obj\Debug\netcoreapp1.1\MaxEnreesend.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\obj\Debug\netcoreapp1.1\MaxEnreesend.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\obj\Debug\netcoreapp1.1\MaxEnreesend.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\MaxEnreesend\obj\Debug\netcoreapp1.1\MaxEnreesend.pdb

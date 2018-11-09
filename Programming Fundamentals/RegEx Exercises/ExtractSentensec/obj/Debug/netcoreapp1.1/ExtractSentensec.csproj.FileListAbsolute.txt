@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\bin\Debug\netcoreapp1.1\ExtractSentensec.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\bin\Debug\netcoreapp1.1\ExtractSentensec.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\bin\Debug\netcoreapp1.1\ExtractSentensec.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\bin\Debug\netcoreapp1.1\ExtractSentensec.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\bin\Debug\netcoreapp1.1\ExtractSentensec.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\obj\Debug\netcoreapp1.1\ExtractSentensec.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\obj\Debug\netcoreapp1.1\ExtractSentensec.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\obj\Debug\netcoreapp1.1\ExtractSentensec.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\ExtractSentensec\obj\Debug\netcoreapp1.1\ExtractSentensec.pdb

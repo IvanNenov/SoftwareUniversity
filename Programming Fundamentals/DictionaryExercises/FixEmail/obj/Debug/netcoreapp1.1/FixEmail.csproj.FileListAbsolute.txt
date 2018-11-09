@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\bin\Debug\netcoreapp1.1\FixEmail.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\bin\Debug\netcoreapp1.1\FixEmail.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\bin\Debug\netcoreapp1.1\FixEmail.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\bin\Debug\netcoreapp1.1\FixEmail.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\bin\Debug\netcoreapp1.1\FixEmail.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\obj\Debug\netcoreapp1.1\FixEmail.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\obj\Debug\netcoreapp1.1\FixEmail.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\obj\Debug\netcoreapp1.1\FixEmail.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\FixEmail\obj\Debug\netcoreapp1.1\FixEmail.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\bin\Debug\netcoreapp1.1\BooleanTostring.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\bin\Debug\netcoreapp1.1\BooleanTostring.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\bin\Debug\netcoreapp1.1\BooleanTostring.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\bin\Debug\netcoreapp1.1\BooleanTostring.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\bin\Debug\netcoreapp1.1\BooleanTostring.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\obj\Debug\netcoreapp1.1\BooleanTostring.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\obj\Debug\netcoreapp1.1\BooleanTostring.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\obj\Debug\netcoreapp1.1\BooleanTostring.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\obj\Debug\netcoreapp1.1\BooleanTostring.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\BooleanTostring\obj\Debug\netcoreapp1.1\BooleanTostring.pdb

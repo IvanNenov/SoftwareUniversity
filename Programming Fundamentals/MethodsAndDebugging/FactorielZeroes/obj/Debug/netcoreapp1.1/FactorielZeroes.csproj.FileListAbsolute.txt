@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\bin\Debug\netcoreapp1.1\FactorielZeroes.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\bin\Debug\netcoreapp1.1\FactorielZeroes.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\bin\Debug\netcoreapp1.1\FactorielZeroes.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\bin\Debug\netcoreapp1.1\FactorielZeroes.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\bin\Debug\netcoreapp1.1\FactorielZeroes.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\obj\Debug\netcoreapp1.1\FactorielZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\obj\Debug\netcoreapp1.1\FactorielZeroes.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\obj\Debug\netcoreapp1.1\FactorielZeroes.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\FactorielZeroes\obj\Debug\netcoreapp1.1\FactorielZeroes.pdb

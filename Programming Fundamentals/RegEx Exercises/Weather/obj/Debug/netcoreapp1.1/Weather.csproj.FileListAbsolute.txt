@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\bin\Debug\netcoreapp1.1\Weather.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\bin\Debug\netcoreapp1.1\Weather.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\bin\Debug\netcoreapp1.1\Weather.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\bin\Debug\netcoreapp1.1\Weather.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\bin\Debug\netcoreapp1.1\Weather.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\obj\Debug\netcoreapp1.1\Weather.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\obj\Debug\netcoreapp1.1\Weather.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\obj\Debug\netcoreapp1.1\Weather.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\obj\Debug\netcoreapp1.1\Weather.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Weather\obj\Debug\netcoreapp1.1\Weather.pdb

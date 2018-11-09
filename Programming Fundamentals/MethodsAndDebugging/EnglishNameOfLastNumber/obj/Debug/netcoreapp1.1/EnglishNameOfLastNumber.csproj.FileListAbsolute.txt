@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\bin\Debug\netcoreapp1.1\EnglishNameOfLastNumber.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\bin\Debug\netcoreapp1.1\EnglishNameOfLastNumber.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\bin\Debug\netcoreapp1.1\EnglishNameOfLastNumber.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\bin\Debug\netcoreapp1.1\EnglishNameOfLastNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\bin\Debug\netcoreapp1.1\EnglishNameOfLastNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\obj\Debug\netcoreapp1.1\EnglishNameOfLastNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\obj\Debug\netcoreapp1.1\EnglishNameOfLastNumber.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\obj\Debug\netcoreapp1.1\EnglishNameOfLastNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\obj\Debug\netcoreapp1.1\EnglishNameOfLastNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\EnglishNameOfLastNumber\obj\Debug\netcoreapp1.1\EnglishNameOfLastNumber.csprojResolveAssemblyReference.cache

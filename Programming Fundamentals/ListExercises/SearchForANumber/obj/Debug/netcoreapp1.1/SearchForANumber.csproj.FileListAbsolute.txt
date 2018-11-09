@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\bin\Debug\netcoreapp1.1\SearchForANumber.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\bin\Debug\netcoreapp1.1\SearchForANumber.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\bin\Debug\netcoreapp1.1\SearchForANumber.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\bin\Debug\netcoreapp1.1\SearchForANumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\bin\Debug\netcoreapp1.1\SearchForANumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\obj\Debug\netcoreapp1.1\SearchForANumber.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\obj\Debug\netcoreapp1.1\SearchForANumber.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\obj\Debug\netcoreapp1.1\SearchForANumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\obj\Debug\netcoreapp1.1\SearchForANumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\SearchForANumber\obj\Debug\netcoreapp1.1\SearchForANumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\bin\Debug\netcoreapp1.1\Remove Negatives and Reverse.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Remove Negatives and Reverse\obj\Debug\netcoreapp1.1\Remove Negatives and Reverse.pdb

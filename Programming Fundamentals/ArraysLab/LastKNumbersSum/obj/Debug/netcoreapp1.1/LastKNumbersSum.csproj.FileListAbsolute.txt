@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\bin\Debug\netcoreapp1.1\LastKNumbersSum.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\bin\Debug\netcoreapp1.1\LastKNumbersSum.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\bin\Debug\netcoreapp1.1\LastKNumbersSum.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\bin\Debug\netcoreapp1.1\LastKNumbersSum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\bin\Debug\netcoreapp1.1\LastKNumbersSum.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\obj\Debug\netcoreapp1.1\LastKNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\obj\Debug\netcoreapp1.1\LastKNumbersSum.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\obj\Debug\netcoreapp1.1\LastKNumbersSum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\LastKNumbersSum\obj\Debug\netcoreapp1.1\LastKNumbersSum.pdb

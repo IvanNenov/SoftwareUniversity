@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\bin\Debug\netcoreapp1.1\DrawAFilledSquare.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\bin\Debug\netcoreapp1.1\DrawAFilledSquare.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\bin\Debug\netcoreapp1.1\DrawAFilledSquare.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\bin\Debug\netcoreapp1.1\DrawAFilledSquare.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\bin\Debug\netcoreapp1.1\DrawAFilledSquare.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\obj\Debug\netcoreapp1.1\DrawAFilledSquare.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\obj\Debug\netcoreapp1.1\DrawAFilledSquare.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\obj\Debug\netcoreapp1.1\DrawAFilledSquare.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\obj\Debug\netcoreapp1.1\DrawAFilledSquare.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\DrawAFilledSquare\obj\Debug\netcoreapp1.1\DrawAFilledSquare.pdb

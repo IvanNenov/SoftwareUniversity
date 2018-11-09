@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\bin\Debug\netcoreapp1.1\Split by Word Casing.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\bin\Debug\netcoreapp1.1\Split by Word Casing.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\bin\Debug\netcoreapp1.1\Split by Word Casing.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\bin\Debug\netcoreapp1.1\Split by Word Casing.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\bin\Debug\netcoreapp1.1\Split by Word Casing.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\obj\Debug\netcoreapp1.1\Split by Word Casing.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\obj\Debug\netcoreapp1.1\Split by Word Casing.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\obj\Debug\netcoreapp1.1\Split by Word Casing.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\obj\Debug\netcoreapp1.1\Split by Word Casing.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\Split by Word Casing\obj\Debug\netcoreapp1.1\Split by Word Casing.pdb

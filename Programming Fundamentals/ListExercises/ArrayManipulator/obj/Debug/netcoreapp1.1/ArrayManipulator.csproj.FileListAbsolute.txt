@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\bin\Debug\netcoreapp1.1\ArrayManipulator.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\bin\Debug\netcoreapp1.1\ArrayManipulator.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\bin\Debug\netcoreapp1.1\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\bin\Debug\netcoreapp1.1\ArrayManipulator.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\bin\Debug\netcoreapp1.1\ArrayManipulator.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\obj\Debug\netcoreapp1.1\ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\obj\Debug\netcoreapp1.1\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\obj\Debug\netcoreapp1.1\ArrayManipulator.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\obj\Debug\netcoreapp1.1\ArrayManipulator.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\ArrayManipulator\obj\Debug\netcoreapp1.1\ArrayManipulator.pdb

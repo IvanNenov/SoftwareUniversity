@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\Beverage Labels\obj\Debug\Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.exe
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\Beverage Labels\bin\Debug\Beverage Labels.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\Beverage Labels\obj\Debug\Beverage Labels.exe
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\Beverage Labels\obj\Debug\Beverage Labels.pdb

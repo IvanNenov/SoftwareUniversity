@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\bin\Debug\netcoreapp1.1\DayOFWeek.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\bin\Debug\netcoreapp1.1\DayOFWeek.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\bin\Debug\netcoreapp1.1\DayOFWeek.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\bin\Debug\netcoreapp1.1\DayOFWeek.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\bin\Debug\netcoreapp1.1\DayOFWeek.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\obj\Debug\netcoreapp1.1\DayOFWeek.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\obj\Debug\netcoreapp1.1\DayOFWeek.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\obj\Debug\netcoreapp1.1\DayOFWeek.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\obj\Debug\netcoreapp1.1\DayOFWeek.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\DayOFWeek\obj\Debug\netcoreapp1.1\DayOFWeek.pdb

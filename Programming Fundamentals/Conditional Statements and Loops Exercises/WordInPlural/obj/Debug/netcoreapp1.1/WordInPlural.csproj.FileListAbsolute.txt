@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\bin\Debug\netcoreapp1.1\WordInPlural.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\bin\Debug\netcoreapp1.1\WordInPlural.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\bin\Debug\netcoreapp1.1\WordInPlural.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\bin\Debug\netcoreapp1.1\WordInPlural.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\bin\Debug\netcoreapp1.1\WordInPlural.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\obj\Debug\netcoreapp1.1\WordInPlural.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\obj\Debug\netcoreapp1.1\WordInPlural.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\obj\Debug\netcoreapp1.1\WordInPlural.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\WordInPlural\obj\Debug\netcoreapp1.1\WordInPlural.pdb

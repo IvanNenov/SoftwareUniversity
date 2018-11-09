@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\bin\Debug\netcoreapp1.1\TrainingWithAlen.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\bin\Debug\netcoreapp1.1\TrainingWithAlen.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\bin\Debug\netcoreapp1.1\TrainingWithAlen.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\bin\Debug\netcoreapp1.1\TrainingWithAlen.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\bin\Debug\netcoreapp1.1\TrainingWithAlen.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\obj\Debug\netcoreapp1.1\TrainingWithAlen.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\obj\Debug\netcoreapp1.1\TrainingWithAlen.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\obj\Debug\netcoreapp1.1\TrainingWithAlen.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\Circles Intersection\obj\Debug\netcoreapp1.1\TrainingWithAlen.pdb

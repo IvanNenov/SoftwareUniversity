@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\bin\Debug\netcoreapp1.1\MatchHexaDecimal.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\bin\Debug\netcoreapp1.1\MatchHexaDecimal.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\bin\Debug\netcoreapp1.1\MatchHexaDecimal.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\bin\Debug\netcoreapp1.1\MatchHexaDecimal.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\bin\Debug\netcoreapp1.1\MatchHexaDecimal.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\obj\Debug\netcoreapp1.1\MatchHexaDecimal.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\obj\Debug\netcoreapp1.1\MatchHexaDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\obj\Debug\netcoreapp1.1\MatchHexaDecimal.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\obj\Debug\netcoreapp1.1\MatchHexaDecimal.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchHexaDecimal\obj\Debug\netcoreapp1.1\MatchHexaDecimal.pdb

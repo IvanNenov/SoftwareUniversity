@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\bin\Debug\netcoreapp1.1\Cake.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\bin\Debug\netcoreapp1.1\Cake.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\bin\Debug\netcoreapp1.1\Cake.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\bin\Debug\netcoreapp1.1\Cake.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\bin\Debug\netcoreapp1.1\Cake.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\obj\Debug\netcoreapp1.1\Cake.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\obj\Debug\netcoreapp1.1\Cake.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\obj\Debug\netcoreapp1.1\Cake.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\obj\Debug\netcoreapp1.1\Cake.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Cake\obj\Debug\netcoreapp1.1\Cake.pdb

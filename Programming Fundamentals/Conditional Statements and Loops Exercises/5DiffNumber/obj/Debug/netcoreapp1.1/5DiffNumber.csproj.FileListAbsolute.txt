@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\bin\Debug\netcoreapp1.1\5DiffNumber.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\bin\Debug\netcoreapp1.1\5DiffNumber.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\bin\Debug\netcoreapp1.1\5DiffNumber.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\bin\Debug\netcoreapp1.1\5DiffNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\bin\Debug\netcoreapp1.1\5DiffNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\obj\Debug\netcoreapp1.1\5DiffNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\obj\Debug\netcoreapp1.1\5DiffNumber.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\obj\Debug\netcoreapp1.1\5DiffNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\5DiffNumber\obj\Debug\netcoreapp1.1\5DiffNumber.pdb

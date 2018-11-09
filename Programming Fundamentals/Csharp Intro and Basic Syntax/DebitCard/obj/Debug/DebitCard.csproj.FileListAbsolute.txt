@@ -1,0 +1,7 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\DebitCard\bin\Debug\DebitCard.exe.config
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\DebitCard\bin\Debug\DebitCard.exe
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\DebitCard\bin\Debug\DebitCard.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\DebitCard\obj\Debug\DebitCard.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\DebitCard\obj\Debug\DebitCard.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\DebitCard\obj\Debug\DebitCard.exe
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\DebitCard\obj\Debug\DebitCard.pdb

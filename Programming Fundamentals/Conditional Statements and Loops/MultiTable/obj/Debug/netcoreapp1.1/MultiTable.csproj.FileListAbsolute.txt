@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\bin\Debug\netcoreapp1.1\MultiTable.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\bin\Debug\netcoreapp1.1\MultiTable.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\bin\Debug\netcoreapp1.1\MultiTable.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\bin\Debug\netcoreapp1.1\MultiTable.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\bin\Debug\netcoreapp1.1\MultiTable.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\obj\Debug\netcoreapp1.1\MultiTable.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\obj\Debug\netcoreapp1.1\MultiTable.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\obj\Debug\netcoreapp1.1\MultiTable.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\obj\Debug\netcoreapp1.1\MultiTable.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\MultiTable\obj\Debug\netcoreapp1.1\MultiTable.pdb

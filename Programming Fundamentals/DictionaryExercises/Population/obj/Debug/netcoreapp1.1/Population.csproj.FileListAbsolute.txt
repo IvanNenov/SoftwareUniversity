@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\bin\Debug\netcoreapp1.1\Population.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\bin\Debug\netcoreapp1.1\Population.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\bin\Debug\netcoreapp1.1\Population.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\bin\Debug\netcoreapp1.1\Population.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\bin\Debug\netcoreapp1.1\Population.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\obj\Debug\netcoreapp1.1\Population.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\obj\Debug\netcoreapp1.1\Population.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\obj\Debug\netcoreapp1.1\Population.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\obj\Debug\netcoreapp1.1\Population.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\Population\obj\Debug\netcoreapp1.1\Population.pdb

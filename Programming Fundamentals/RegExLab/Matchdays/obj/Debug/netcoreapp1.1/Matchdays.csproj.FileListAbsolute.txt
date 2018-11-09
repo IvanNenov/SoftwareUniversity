@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\bin\Debug\netcoreapp1.1\Matchdays.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\bin\Debug\netcoreapp1.1\Matchdays.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\bin\Debug\netcoreapp1.1\Matchdays.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\bin\Debug\netcoreapp1.1\Matchdays.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\bin\Debug\netcoreapp1.1\Matchdays.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\obj\Debug\netcoreapp1.1\Matchdays.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\obj\Debug\netcoreapp1.1\Matchdays.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\obj\Debug\netcoreapp1.1\Matchdays.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\obj\Debug\netcoreapp1.1\Matchdays.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\Matchdays\obj\Debug\netcoreapp1.1\Matchdays.pdb

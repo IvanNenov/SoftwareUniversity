@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\bin\Debug\netcoreapp1.1\Extract Emails.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\bin\Debug\netcoreapp1.1\Extract Emails.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\bin\Debug\netcoreapp1.1\Extract Emails.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\bin\Debug\netcoreapp1.1\Extract Emails.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\bin\Debug\netcoreapp1.1\Extract Emails.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\obj\Debug\netcoreapp1.1\Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\obj\Debug\netcoreapp1.1\Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\obj\Debug\netcoreapp1.1\Extract Emails.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\obj\Debug\netcoreapp1.1\Extract Emails.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegEx Exercises\Extract Emails\obj\Debug\netcoreapp1.1\Extract Emails.pdb

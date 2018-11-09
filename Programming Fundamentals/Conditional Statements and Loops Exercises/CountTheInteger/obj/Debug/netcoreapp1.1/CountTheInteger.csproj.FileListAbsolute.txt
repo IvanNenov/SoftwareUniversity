@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\bin\Debug\netcoreapp1.1\CountTheInteger.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\bin\Debug\netcoreapp1.1\CountTheInteger.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\bin\Debug\netcoreapp1.1\CountTheInteger.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\bin\Debug\netcoreapp1.1\CountTheInteger.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\bin\Debug\netcoreapp1.1\CountTheInteger.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\obj\Debug\netcoreapp1.1\CountTheInteger.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\obj\Debug\netcoreapp1.1\CountTheInteger.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\obj\Debug\netcoreapp1.1\CountTheInteger.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CountTheInteger\obj\Debug\netcoreapp1.1\CountTheInteger.pdb

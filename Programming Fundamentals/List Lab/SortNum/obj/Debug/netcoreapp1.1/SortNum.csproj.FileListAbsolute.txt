@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\bin\Debug\netcoreapp1.1\SortNum.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\bin\Debug\netcoreapp1.1\SortNum.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\bin\Debug\netcoreapp1.1\SortNum.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\bin\Debug\netcoreapp1.1\SortNum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\bin\Debug\netcoreapp1.1\SortNum.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\obj\Debug\netcoreapp1.1\SortNum.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\obj\Debug\netcoreapp1.1\SortNum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\obj\Debug\netcoreapp1.1\SortNum.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\obj\Debug\netcoreapp1.1\SortNum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SortNum\obj\Debug\netcoreapp1.1\SortNum.pdb

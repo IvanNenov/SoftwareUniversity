@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\bin\Debug\netcoreapp1.1\RandomWord.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\bin\Debug\netcoreapp1.1\RandomWord.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\bin\Debug\netcoreapp1.1\RandomWord.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\bin\Debug\netcoreapp1.1\RandomWord.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\bin\Debug\netcoreapp1.1\RandomWord.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\obj\Debug\netcoreapp1.1\RandomWord.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\obj\Debug\netcoreapp1.1\RandomWord.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\obj\Debug\netcoreapp1.1\RandomWord.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB\RandomWord\obj\Debug\netcoreapp1.1\RandomWord.pdb

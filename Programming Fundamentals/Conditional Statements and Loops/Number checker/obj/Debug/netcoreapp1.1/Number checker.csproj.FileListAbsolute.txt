@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\bin\Debug\netcoreapp1.1\Number checker.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\bin\Debug\netcoreapp1.1\Number checker.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\bin\Debug\netcoreapp1.1\Number checker.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\bin\Debug\netcoreapp1.1\Number checker.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\bin\Debug\netcoreapp1.1\Number checker.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\obj\Debug\netcoreapp1.1\Number checker.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\obj\Debug\netcoreapp1.1\Number checker.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\obj\Debug\netcoreapp1.1\Number checker.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Number checker\obj\Debug\netcoreapp1.1\Number checker.pdb

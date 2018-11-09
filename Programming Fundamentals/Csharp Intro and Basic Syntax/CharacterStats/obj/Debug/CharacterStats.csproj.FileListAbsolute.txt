@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\CharacterStats\bin\Debug\CharacterStats.exe
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\CharacterStats\bin\Debug\CharacterStats.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\CharacterStats\obj\Debug\CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\CharacterStats\obj\Debug\CharacterStats.exe
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\CharacterStats\obj\Debug\CharacterStats.pdb

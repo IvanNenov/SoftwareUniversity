@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\bin\Debug\netcoreapp1.1\UserLogs.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\bin\Debug\netcoreapp1.1\UserLogs.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\bin\Debug\netcoreapp1.1\UserLogs.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\bin\Debug\netcoreapp1.1\UserLogs.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\bin\Debug\netcoreapp1.1\UserLogs.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\obj\Debug\netcoreapp1.1\UserLogs.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\obj\Debug\netcoreapp1.1\UserLogs.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\obj\Debug\netcoreapp1.1\UserLogs.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\obj\Debug\netcoreapp1.1\UserLogs.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\UserLogs\obj\Debug\netcoreapp1.1\UserLogs.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\bin\Debug\netcoreapp1.1\Interval of Numbers.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\bin\Debug\netcoreapp1.1\Interval of Numbers.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\bin\Debug\netcoreapp1.1\Interval of Numbers.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\bin\Debug\netcoreapp1.1\Interval of Numbers.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\bin\Debug\netcoreapp1.1\Interval of Numbers.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\obj\Debug\netcoreapp1.1\Interval of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\obj\Debug\netcoreapp1.1\Interval of Numbers.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\obj\Debug\netcoreapp1.1\Interval of Numbers.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\Interval of Numbers\obj\Debug\netcoreapp1.1\Interval of Numbers.pdb

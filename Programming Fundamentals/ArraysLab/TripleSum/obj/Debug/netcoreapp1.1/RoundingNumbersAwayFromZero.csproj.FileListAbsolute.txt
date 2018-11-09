@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\bin\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\bin\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\bin\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\bin\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\bin\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\obj\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\obj\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\obj\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\TripleSum\obj\Debug\netcoreapp1.1\RoundingNumbersAwayFromZero.pdb

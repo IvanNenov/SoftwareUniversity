@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\bin\Debug\netcoreapp1.1\MaxNumber.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\bin\Debug\netcoreapp1.1\MaxNumber.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\bin\Debug\netcoreapp1.1\MaxNumber.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\bin\Debug\netcoreapp1.1\MaxNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\bin\Debug\netcoreapp1.1\MaxNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\obj\Debug\netcoreapp1.1\MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\obj\Debug\netcoreapp1.1\MaxNumber.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\obj\Debug\netcoreapp1.1\MaxNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\obj\Debug\netcoreapp1.1\MaxNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MaxNumber\obj\Debug\netcoreapp1.1\MaxNumber.csprojResolveAssemblyReference.cache

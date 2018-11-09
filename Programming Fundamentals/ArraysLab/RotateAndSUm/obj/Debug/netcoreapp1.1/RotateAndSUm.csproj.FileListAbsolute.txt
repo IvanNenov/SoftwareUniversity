@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\bin\Debug\netcoreapp1.1\RotateAndSUm.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\bin\Debug\netcoreapp1.1\RotateAndSUm.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\bin\Debug\netcoreapp1.1\RotateAndSUm.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\bin\Debug\netcoreapp1.1\RotateAndSUm.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\bin\Debug\netcoreapp1.1\RotateAndSUm.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\obj\Debug\netcoreapp1.1\RotateAndSUm.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\obj\Debug\netcoreapp1.1\RotateAndSUm.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\obj\Debug\netcoreapp1.1\RotateAndSUm.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\RotateAndSUm\obj\Debug\netcoreapp1.1\RotateAndSUm.pdb

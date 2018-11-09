@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\bin\Debug\netcoreapp1.1\LoggsAgreggator.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\bin\Debug\netcoreapp1.1\LoggsAgreggator.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\bin\Debug\netcoreapp1.1\LoggsAgreggator.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\bin\Debug\netcoreapp1.1\LoggsAgreggator.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\bin\Debug\netcoreapp1.1\LoggsAgreggator.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\obj\Debug\netcoreapp1.1\LoggsAgreggator.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\obj\Debug\netcoreapp1.1\LoggsAgreggator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\obj\Debug\netcoreapp1.1\LoggsAgreggator.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\obj\Debug\netcoreapp1.1\LoggsAgreggator.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DictionaryExercises\LoggsAgreggator\obj\Debug\netcoreapp1.1\LoggsAgreggator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\bin\Debug\netcoreapp1.1\BombNumber.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\bin\Debug\netcoreapp1.1\BombNumber.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\bin\Debug\netcoreapp1.1\BombNumber.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\bin\Debug\netcoreapp1.1\BombNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\bin\Debug\netcoreapp1.1\BombNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\obj\Debug\netcoreapp1.1\BombNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\obj\Debug\netcoreapp1.1\BombNumber.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\obj\Debug\netcoreapp1.1\BombNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\obj\Debug\netcoreapp1.1\BombNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ListExercises\BombNumber\obj\Debug\netcoreapp1.1\BombNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\bin\Debug\netcoreapp1.1\MasterNumber.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\bin\Debug\netcoreapp1.1\MasterNumber.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\bin\Debug\netcoreapp1.1\MasterNumber.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\obj\Debug\netcoreapp1.1\MasterNumber.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\obj\Debug\netcoreapp1.1\MasterNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\obj\Debug\netcoreapp1.1\MasterNumber.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\bin\Debug\netcoreapp1.1\MasterNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\bin\Debug\netcoreapp1.1\MasterNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\obj\Debug\netcoreapp1.1\MasterNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\MasterNumber\obj\Debug\netcoreapp1.1\MasterNumber.pdb

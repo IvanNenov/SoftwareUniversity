@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\bin\Debug\netcoreapp1.1\VariableInHexFormat.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\bin\Debug\netcoreapp1.1\VariableInHexFormat.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\bin\Debug\netcoreapp1.1\VariableInHexFormat.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\bin\Debug\netcoreapp1.1\VariableInHexFormat.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\bin\Debug\netcoreapp1.1\VariableInHexFormat.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\obj\Debug\netcoreapp1.1\VariableInHexFormat.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\obj\Debug\netcoreapp1.1\VariableInHexFormat.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\obj\Debug\netcoreapp1.1\VariableInHexFormat.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\obj\Debug\netcoreapp1.1\VariableInHexFormat.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\VariableInHexFormat\obj\Debug\netcoreapp1.1\VariableInHexFormat.pdb

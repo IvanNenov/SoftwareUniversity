@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\bin\Debug\netcoreapp1.1\IsPrimeLisst.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\bin\Debug\netcoreapp1.1\IsPrimeLisst.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\bin\Debug\netcoreapp1.1\IsPrimeLisst.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\bin\Debug\netcoreapp1.1\IsPrimeLisst.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\bin\Debug\netcoreapp1.1\IsPrimeLisst.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\obj\Debug\netcoreapp1.1\IsPrimeLisst.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\obj\Debug\netcoreapp1.1\IsPrimeLisst.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\obj\Debug\netcoreapp1.1\IsPrimeLisst.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\IsPrimeLisst\obj\Debug\netcoreapp1.1\IsPrimeLisst.pdb

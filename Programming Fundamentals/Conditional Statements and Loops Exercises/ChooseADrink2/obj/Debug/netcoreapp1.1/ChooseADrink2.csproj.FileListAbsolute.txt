@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\ChooseADrink2\bin\Debug\netcoreapp1.1\ChooseADrink2.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\ChooseADrink2\bin\Debug\netcoreapp1.1\ChooseADrink2.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\ChooseADrink2\bin\Debug\netcoreapp1.1\ChooseADrink2.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\ChooseADrink2\obj\Debug\netcoreapp1.1\ChooseADrink2.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\ChooseADrink2\obj\Debug\netcoreapp1.1\ChooseADrink2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\ChooseADrink2\obj\Debug\netcoreapp1.1\ChooseADrink2.AssemblyInfo.cs

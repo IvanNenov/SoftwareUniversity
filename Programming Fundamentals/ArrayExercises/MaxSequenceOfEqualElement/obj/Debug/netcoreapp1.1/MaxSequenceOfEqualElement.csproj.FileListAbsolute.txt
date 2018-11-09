@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\bin\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\bin\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\bin\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\bin\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\bin\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\obj\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\obj\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\obj\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\obj\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\MaxSequenceOfEqualElement\obj\Debug\netcoreapp1.1\MaxSequenceOfEqualElement.csprojResolveAssemblyReference.cache

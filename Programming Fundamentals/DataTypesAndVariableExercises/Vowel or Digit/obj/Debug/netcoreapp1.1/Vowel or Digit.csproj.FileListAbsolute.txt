@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\bin\Debug\netcoreapp1.1\Vowel or Digit.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\bin\Debug\netcoreapp1.1\Vowel or Digit.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\bin\Debug\netcoreapp1.1\Vowel or Digit.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\bin\Debug\netcoreapp1.1\Vowel or Digit.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\bin\Debug\netcoreapp1.1\Vowel or Digit.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\obj\Debug\netcoreapp1.1\Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\obj\Debug\netcoreapp1.1\Vowel or Digit.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\obj\Debug\netcoreapp1.1\Vowel or Digit.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\Vowel or Digit\obj\Debug\netcoreapp1.1\Vowel or Digit.pdb

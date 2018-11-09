@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\bin\Debug\netcoreapp1.1\FoldAndSum.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\bin\Debug\netcoreapp1.1\FoldAndSum.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\bin\Debug\netcoreapp1.1\FoldAndSum.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\bin\Debug\netcoreapp1.1\FoldAndSum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\bin\Debug\netcoreapp1.1\FoldAndSum.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\obj\Debug\netcoreapp1.1\FoldAndSum.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\obj\Debug\netcoreapp1.1\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\obj\Debug\netcoreapp1.1\FoldAndSum.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\obj\Debug\netcoreapp1.1\FoldAndSum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\FoldAndSum\obj\Debug\netcoreapp1.1\FoldAndSum.pdb

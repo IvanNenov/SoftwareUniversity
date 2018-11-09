@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\bin\Debug\netcoreapp1.1\AverageGrade.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\bin\Debug\netcoreapp1.1\AverageGrade.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\bin\Debug\netcoreapp1.1\AverageGrade.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\bin\Debug\netcoreapp1.1\AverageGrade.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\bin\Debug\netcoreapp1.1\AverageGrade.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\obj\Debug\netcoreapp1.1\AverageGrade.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\obj\Debug\netcoreapp1.1\AverageGrade.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\obj\Debug\netcoreapp1.1\AverageGrade.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ClassAndObjLAB&Exercises\AverageGrade\obj\Debug\netcoreapp1.1\AverageGrade.pdb

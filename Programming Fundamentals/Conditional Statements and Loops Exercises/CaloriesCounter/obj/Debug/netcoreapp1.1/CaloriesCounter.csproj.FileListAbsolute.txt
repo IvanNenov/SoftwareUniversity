@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\bin\Debug\netcoreapp1.1\CaloriesCounter.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\bin\Debug\netcoreapp1.1\CaloriesCounter.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\bin\Debug\netcoreapp1.1\CaloriesCounter.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\bin\Debug\netcoreapp1.1\CaloriesCounter.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\bin\Debug\netcoreapp1.1\CaloriesCounter.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\obj\Debug\netcoreapp1.1\CaloriesCounter.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\obj\Debug\netcoreapp1.1\CaloriesCounter.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\obj\Debug\netcoreapp1.1\CaloriesCounter.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\obj\Debug\netcoreapp1.1\CaloriesCounter.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\CaloriesCounter\obj\Debug\netcoreapp1.1\CaloriesCounter.pdb

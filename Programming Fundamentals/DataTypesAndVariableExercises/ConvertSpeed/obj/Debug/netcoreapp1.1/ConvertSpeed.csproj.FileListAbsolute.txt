@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\bin\Debug\netcoreapp1.1\ConvertSpeed.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\bin\Debug\netcoreapp1.1\ConvertSpeed.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\bin\Debug\netcoreapp1.1\ConvertSpeed.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\bin\Debug\netcoreapp1.1\ConvertSpeed.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\bin\Debug\netcoreapp1.1\ConvertSpeed.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\obj\Debug\netcoreapp1.1\ConvertSpeed.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\obj\Debug\netcoreapp1.1\ConvertSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\obj\Debug\netcoreapp1.1\ConvertSpeed.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\obj\Debug\netcoreapp1.1\ConvertSpeed.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\ConvertSpeed\obj\Debug\netcoreapp1.1\ConvertSpeed.pdb

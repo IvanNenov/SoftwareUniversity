@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\bin\Debug\netcoreapp1.1\CompareCharArray.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\bin\Debug\netcoreapp1.1\CompareCharArray.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\bin\Debug\netcoreapp1.1\CompareCharArray.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\bin\Debug\netcoreapp1.1\CompareCharArray.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\bin\Debug\netcoreapp1.1\CompareCharArray.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\obj\Debug\netcoreapp1.1\CompareCharArray.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\obj\Debug\netcoreapp1.1\CompareCharArray.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\obj\Debug\netcoreapp1.1\CompareCharArray.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArrayExercises\CompareCharArray\obj\Debug\netcoreapp1.1\CompareCharArray.pdb

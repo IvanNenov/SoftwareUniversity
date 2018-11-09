@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\bin\Debug\netcoreapp1.1\HelloName.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\bin\Debug\netcoreapp1.1\HelloName.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\bin\Debug\netcoreapp1.1\HelloName.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\bin\Debug\netcoreapp1.1\HelloName.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\bin\Debug\netcoreapp1.1\HelloName.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\obj\Debug\netcoreapp1.1\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\obj\Debug\netcoreapp1.1\HelloName.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\obj\Debug\netcoreapp1.1\HelloName.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\MethodsDebugging and Troubleshooting Code Exercises\HelloName\obj\Debug\netcoreapp1.1\HelloName.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\bin\Debug\netcoreapp1.1\TriangleNumbers.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\bin\Debug\netcoreapp1.1\TriangleNumbers.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\bin\Debug\netcoreapp1.1\TriangleNumbers.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\bin\Debug\netcoreapp1.1\TriangleNumbers.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\bin\Debug\netcoreapp1.1\TriangleNumbers.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\obj\Debug\netcoreapp1.1\TriangleNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\obj\Debug\netcoreapp1.1\TriangleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\obj\Debug\netcoreapp1.1\TriangleNumbers.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\obj\Debug\netcoreapp1.1\TriangleNumbers.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\CSharp Conditional Statements and Loops Exercises\TriangleNumbers\obj\Debug\netcoreapp1.1\TriangleNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\bin\Debug\netcoreapp1.1\AppendList.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\bin\Debug\netcoreapp1.1\AppendList.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\bin\Debug\netcoreapp1.1\AppendList.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\bin\Debug\netcoreapp1.1\AppendList.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\bin\Debug\netcoreapp1.1\AppendList.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\obj\Debug\netcoreapp1.1\AppendList.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\obj\Debug\netcoreapp1.1\AppendList.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\obj\Debug\netcoreapp1.1\AppendList.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\obj\Debug\netcoreapp1.1\AppendList.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\AppendList\obj\Debug\netcoreapp1.1\AppendList.csprojResolveAssemblyReference.cache

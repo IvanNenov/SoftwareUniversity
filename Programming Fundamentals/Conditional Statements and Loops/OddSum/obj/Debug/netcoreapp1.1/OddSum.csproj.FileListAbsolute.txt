@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\bin\Debug\netcoreapp1.1\OddSum.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\bin\Debug\netcoreapp1.1\OddSum.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\bin\Debug\netcoreapp1.1\OddSum.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\bin\Debug\netcoreapp1.1\OddSum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\bin\Debug\netcoreapp1.1\OddSum.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\obj\Debug\netcoreapp1.1\OddSum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\obj\Debug\netcoreapp1.1\OddSum.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\obj\Debug\netcoreapp1.1\OddSum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\OddSum\obj\Debug\netcoreapp1.1\OddSum.pdb

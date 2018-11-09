@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\bin\Debug\netcoreapp1.1\MatchFullName.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\bin\Debug\netcoreapp1.1\MatchFullName.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\bin\Debug\netcoreapp1.1\MatchFullName.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\bin\Debug\netcoreapp1.1\MatchFullName.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\bin\Debug\netcoreapp1.1\MatchFullName.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\obj\Debug\netcoreapp1.1\MatchFullName.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\obj\Debug\netcoreapp1.1\MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\obj\Debug\netcoreapp1.1\MatchFullName.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\obj\Debug\netcoreapp1.1\MatchFullName.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\RegExLab\MatchFullName\obj\Debug\netcoreapp1.1\MatchFullName.pdb

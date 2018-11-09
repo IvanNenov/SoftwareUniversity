@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\bin\Debug\netcoreapp1.1\FastPrimeChecker.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\bin\Debug\netcoreapp1.1\FastPrimeChecker.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\bin\Debug\netcoreapp1.1\FastPrimeChecker.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\bin\Debug\netcoreapp1.1\FastPrimeChecker.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\bin\Debug\netcoreapp1.1\FastPrimeChecker.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\obj\Debug\netcoreapp1.1\FastPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\obj\Debug\netcoreapp1.1\FastPrimeChecker.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\obj\Debug\netcoreapp1.1\FastPrimeChecker.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\FastPrimeChecker\obj\Debug\netcoreapp1.1\FastPrimeChecker.pdb

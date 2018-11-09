@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\bin\Debug\netcoreapp1.1\RectangleProperties.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\bin\Debug\netcoreapp1.1\RectangleProperties.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\bin\Debug\netcoreapp1.1\RectangleProperties.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\bin\Debug\netcoreapp1.1\RectangleProperties.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\bin\Debug\netcoreapp1.1\RectangleProperties.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\obj\Debug\netcoreapp1.1\RectangleProperties.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\obj\Debug\netcoreapp1.1\RectangleProperties.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\obj\Debug\netcoreapp1.1\RectangleProperties.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\DataTypesAndVariableExercises\RectangleProperties\obj\Debug\netcoreapp1.1\RectangleProperties.pdb

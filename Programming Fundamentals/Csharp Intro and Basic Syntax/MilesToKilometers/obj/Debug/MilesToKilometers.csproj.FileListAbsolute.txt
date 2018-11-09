@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\MilesToKilometers\bin\Debug\MilesToKilometers.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\MilesToKilometers\obj\Debug\MilesToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Csharp Intro and Basic Syntax\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

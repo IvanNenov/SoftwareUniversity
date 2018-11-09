@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\bin\Debug\netcoreapp1.1\Ticket.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\bin\Debug\netcoreapp1.1\Ticket.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\bin\Debug\netcoreapp1.1\Ticket.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\bin\Debug\netcoreapp1.1\Ticket.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\bin\Debug\netcoreapp1.1\Ticket.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\obj\Debug\netcoreapp1.1\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\obj\Debug\netcoreapp1.1\Ticket.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\obj\Debug\netcoreapp1.1\Ticket.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Conditional Statements and Loops\Ticket\obj\Debug\netcoreapp1.1\Ticket.pdb

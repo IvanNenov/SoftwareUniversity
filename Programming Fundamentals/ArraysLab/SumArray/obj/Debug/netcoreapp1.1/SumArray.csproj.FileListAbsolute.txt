@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\bin\Debug\netcoreapp1.1\SumArray.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\bin\Debug\netcoreapp1.1\SumArray.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\bin\Debug\netcoreapp1.1\SumArray.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\bin\Debug\netcoreapp1.1\SumArray.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\bin\Debug\netcoreapp1.1\SumArray.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\obj\Debug\netcoreapp1.1\SumArray.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\obj\Debug\netcoreapp1.1\SumArray.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\obj\Debug\netcoreapp1.1\SumArray.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\obj\Debug\netcoreapp1.1\SumArray.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\SumArray\obj\Debug\netcoreapp1.1\SumArray.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\bin\Debug\netcoreapp1.1\BlackReceipt.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\bin\Debug\netcoreapp1.1\BlackReceipt.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\bin\Debug\netcoreapp1.1\BlackReceipt.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\bin\Debug\netcoreapp1.1\BlackReceipt.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\bin\Debug\netcoreapp1.1\BlackReceipt.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\obj\Debug\netcoreapp1.1\BlackReceipt.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\obj\Debug\netcoreapp1.1\BlackReceipt.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\obj\Debug\netcoreapp1.1\BlackReceipt.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\obj\Debug\netcoreapp1.1\BlackReceipt.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\Methods\BlackReceipt\obj\Debug\netcoreapp1.1\BlackReceipt.pdb

@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\bin\Debug\netcoreapp1.1\8. Most Frequent Number.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\bin\Debug\netcoreapp1.1\8. Most Frequent Number.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\bin\Debug\netcoreapp1.1\8. Most Frequent Number.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\bin\Debug\netcoreapp1.1\8. Most Frequent Number.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\bin\Debug\netcoreapp1.1\8. Most Frequent Number.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\obj\Debug\netcoreapp1.1\8. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\obj\Debug\netcoreapp1.1\8. Most Frequent Number.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\obj\Debug\netcoreapp1.1\8. Most Frequent Number.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\ArraysLab\8. Most Frequent Number\obj\Debug\netcoreapp1.1\8. Most Frequent Number.pdb

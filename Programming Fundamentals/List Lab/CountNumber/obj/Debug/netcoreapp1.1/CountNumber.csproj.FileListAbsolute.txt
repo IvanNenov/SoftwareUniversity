@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\bin\Debug\netcoreapp1.1\CountNumber.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\bin\Debug\netcoreapp1.1\CountNumber.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\bin\Debug\netcoreapp1.1\CountNumber.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\bin\Debug\netcoreapp1.1\CountNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\bin\Debug\netcoreapp1.1\CountNumber.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\obj\Debug\netcoreapp1.1\CountNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\obj\Debug\netcoreapp1.1\CountNumber.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\obj\Debug\netcoreapp1.1\CountNumber.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\CountNumber\obj\Debug\netcoreapp1.1\CountNumber.pdb

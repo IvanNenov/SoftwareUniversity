@@ -1,0 +1,9 @@
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\bin\Debug\netcoreapp1.1\SqaureNum.deps.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\bin\Debug\netcoreapp1.1\SqaureNum.runtimeconfig.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\bin\Debug\netcoreapp1.1\SqaureNum.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\bin\Debug\netcoreapp1.1\SqaureNum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\bin\Debug\netcoreapp1.1\SqaureNum.pdb
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\obj\Debug\netcoreapp1.1\SqaureNum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\obj\Debug\netcoreapp1.1\SqaureNum.AssemblyInfo.cs
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\obj\Debug\netcoreapp1.1\SqaureNum.dll
+C:\Users\Ivan Nenov\TechModuleInSoftuni\List Lab\SqaureNum\obj\Debug\netcoreapp1.1\SqaureNum.pdb
