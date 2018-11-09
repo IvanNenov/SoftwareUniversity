@@ -1,0 +1,7 @@
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.exe
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\HalfSumElement\bin\Debug\HalfSumElement.pdb
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.exe
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\HalfSumElement\obj\Debug\HalfSumElement.pdb

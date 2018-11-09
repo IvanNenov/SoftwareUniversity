@@ -1,0 +1,2 @@
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\VolewssSUm\obj\Debug\VolewssSUm.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\source\repos\SimpleLoops\VolewssSUm\obj\Debug\VolewssSUm.csproj.CoreCompileInputs.cache

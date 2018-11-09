@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenov\source\repos\Introductions\Number1to100\bin\Debug\Number1to100.exe.config
+C:\Users\Ivan Nenov\source\repos\Introductions\Number1to100\bin\Debug\Number1to100.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\Number1to100\bin\Debug\Number1to100.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\Number1to100\obj\Debug\Number1to100.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\source\repos\Introductions\Number1to100\obj\Debug\Number1to100.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\Number1to100\obj\Debug\Number1to100.pdb

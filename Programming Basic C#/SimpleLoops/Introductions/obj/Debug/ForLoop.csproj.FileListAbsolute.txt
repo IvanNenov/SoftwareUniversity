@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenov\source\repos\Introductions\Introductions\bin\Debug\Introductions.exe.config
+C:\Users\Ivan Nenov\source\repos\Introductions\Introductions\bin\Debug\Introductions.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\Introductions\bin\Debug\Introductions.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\Introductions\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\source\repos\Introductions\Introductions\obj\Debug\Introductions.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\Introductions\obj\Debug\Introductions.pdb

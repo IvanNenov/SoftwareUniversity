@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenov\source\repos\Introductions\NumberEnding7\obj\Debug\NumberEnding7.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\source\repos\Introductions\NumberEnding7\bin\Debug\NumberEnding7.exe.config
+C:\Users\Ivan Nenov\source\repos\Introductions\NumberEnding7\bin\Debug\NumberEnding7.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\NumberEnding7\bin\Debug\NumberEnding7.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\NumberEnding7\obj\Debug\NumberEnding7.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\NumberEnding7\obj\Debug\NumberEnding7.pdb

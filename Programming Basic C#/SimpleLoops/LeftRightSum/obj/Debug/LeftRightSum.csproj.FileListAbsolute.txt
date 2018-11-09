@@ -1,0 +1,6 @@
+C:\Users\Ivan Nenov\source\repos\Introductions\LeftRightSum\bin\Debug\LeftRightSum.exe.config
+C:\Users\Ivan Nenov\source\repos\Introductions\LeftRightSum\bin\Debug\LeftRightSum.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\LeftRightSum\bin\Debug\LeftRightSum.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\LeftRightSum\obj\Debug\LeftRightSum.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\source\repos\Introductions\LeftRightSum\obj\Debug\LeftRightSum.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\LeftRightSum\obj\Debug\LeftRightSum.pdb

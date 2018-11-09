@@ -1,0 +1,7 @@
+C:\Users\Ivan Nenov\source\repos\Introductions\EqualTwo\bin\Debug\EqualTwo.exe.config
+C:\Users\Ivan Nenov\source\repos\Introductions\EqualTwo\bin\Debug\EqualTwo.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\EqualTwo\bin\Debug\EqualTwo.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\EqualTwo\obj\Debug\EqualTwo.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Nenov\source\repos\Introductions\EqualTwo\obj\Debug\EqualTwo.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\source\repos\Introductions\EqualTwo\obj\Debug\EqualTwo.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\EqualTwo\obj\Debug\EqualTwo.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ivan Nenov\source\repos\Introductions\forAtoZ\obj\Debug\forAtoZ.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\source\repos\Introductions\forAtoZ\bin\Debug\forAtoZ.exe.config
+C:\Users\Ivan Nenov\source\repos\Introductions\forAtoZ\bin\Debug\forAtoZ.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\forAtoZ\bin\Debug\forAtoZ.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\forAtoZ\obj\Debug\forAtoZ.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\forAtoZ\obj\Debug\forAtoZ.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\forAtoZ\obj\Debug\forAtoZ.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Ivan Nenov\source\repos\Introductions\sumnumber\bin\Debug\sumnumber.exe.config
+C:\Users\Ivan Nenov\source\repos\Introductions\sumnumber\bin\Debug\sumnumber.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\sumnumber\bin\Debug\sumnumber.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\sumnumber\obj\Debug\sumnumber.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\source\repos\Introductions\sumnumber\obj\Debug\sumnumber.exe
+C:\Users\Ivan Nenov\source\repos\Introductions\sumnumber\obj\Debug\sumnumber.pdb
+C:\Users\Ivan Nenov\source\repos\Introductions\sumnumber\obj\Debug\sumnumber.csprojResolveAssemblyReference.cache
