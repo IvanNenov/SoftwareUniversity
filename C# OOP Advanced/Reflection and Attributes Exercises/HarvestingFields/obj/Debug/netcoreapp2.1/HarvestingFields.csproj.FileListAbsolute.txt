@@ -1,0 +1,11 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\bin\Debug\netcoreapp2.1\HarvestingFields.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\HarvestingFields\obj\Debug\netcoreapp2.1\HarvestingFields.pdb

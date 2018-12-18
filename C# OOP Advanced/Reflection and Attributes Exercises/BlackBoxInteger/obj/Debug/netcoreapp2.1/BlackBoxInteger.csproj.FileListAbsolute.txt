@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\bin\Debug\netcoreapp2.1\BlackBoxInteger.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\bin\Debug\netcoreapp2.1\BlackBoxInteger.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\bin\Debug\netcoreapp2.1\BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\bin\Debug\netcoreapp2.1\BlackBoxInteger.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\bin\Debug\netcoreapp2.1\BlackBoxInteger.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\obj\Debug\netcoreapp2.1\BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\obj\Debug\netcoreapp2.1\BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\obj\Debug\netcoreapp2.1\BlackBoxInteger.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\obj\Debug\netcoreapp2.1\BlackBoxInteger.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BlackBoxInteger\obj\Debug\netcoreapp2.1\BlackBoxInteger.pdb

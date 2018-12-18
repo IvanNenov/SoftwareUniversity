@@ -1,0 +1,11 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\bin\Debug\netcoreapp2.1\MissionPrivateImpossible.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\bin\Debug\netcoreapp2.1\MissionPrivateImpossible.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\bin\Debug\netcoreapp2.1\MissionPrivateImpossible.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\bin\Debug\netcoreapp2.1\MissionPrivateImpossible.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\bin\Debug\netcoreapp2.1\MissionPrivateImpossible.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\obj\Debug\netcoreapp2.1\MissionPrivateImpossible.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\obj\Debug\netcoreapp2.1\MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\obj\Debug\netcoreapp2.1\MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\obj\Debug\netcoreapp2.1\MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\obj\Debug\netcoreapp2.1\MissionPrivateImpossible.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\MissionPrivateImpossible\obj\Debug\netcoreapp2.1\MissionPrivateImpossible.pdb

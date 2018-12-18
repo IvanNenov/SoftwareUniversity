@@ -1,0 +1,11 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarracksWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\BarracksWars-TheCommandsStrikeBack.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\bin\Debug\netcoreapp2.1\GenericsCountMethodDouble.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\bin\Debug\netcoreapp2.1\GenericsCountMethodDouble.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\bin\Debug\netcoreapp2.1\GenericsCountMethodDouble.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\bin\Debug\netcoreapp2.1\GenericsCountMethodDouble.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\bin\Debug\netcoreapp2.1\GenericsCountMethodDouble.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\obj\Debug\netcoreapp2.1\GenericsCountMethodDouble.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\obj\Debug\netcoreapp2.1\GenericsCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\obj\Debug\netcoreapp2.1\GenericsCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\obj\Debug\netcoreapp2.1\GenericsCountMethodDouble.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\obj\Debug\netcoreapp2.1\GenericsCountMethodDouble.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericsCountMethodDouble\obj\Debug\netcoreapp2.1\GenericsCountMethodDouble.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\bin\Debug\netcoreapp2.1\Threeuple.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\Threeuple\obj\Debug\netcoreapp2.1\Threeuple.pdb

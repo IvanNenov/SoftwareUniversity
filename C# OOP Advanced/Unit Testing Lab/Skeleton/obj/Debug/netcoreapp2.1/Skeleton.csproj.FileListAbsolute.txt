@@ -1,0 +1,11 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\bin\Debug\netcoreapp2.1\Skeleton.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Unit Testing Lab\Skeleton\obj\Debug\netcoreapp2.1\Skeleton.pdb

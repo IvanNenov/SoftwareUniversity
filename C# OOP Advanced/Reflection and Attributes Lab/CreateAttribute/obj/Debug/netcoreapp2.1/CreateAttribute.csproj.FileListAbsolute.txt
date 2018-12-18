@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\bin\Debug\netcoreapp2.1\CreateAttribute.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\bin\Debug\netcoreapp2.1\CreateAttribute.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\bin\Debug\netcoreapp2.1\CreateAttribute.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\bin\Debug\netcoreapp2.1\CreateAttribute.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\bin\Debug\netcoreapp2.1\CreateAttribute.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\obj\Debug\netcoreapp2.1\CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\obj\Debug\netcoreapp2.1\CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\obj\Debug\netcoreapp2.1\CreateAttribute.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\obj\Debug\netcoreapp2.1\CreateAttribute.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\CreateAttribute\obj\Debug\netcoreapp2.1\CreateAttribute.pdb

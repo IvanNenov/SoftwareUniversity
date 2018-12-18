@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.pdb

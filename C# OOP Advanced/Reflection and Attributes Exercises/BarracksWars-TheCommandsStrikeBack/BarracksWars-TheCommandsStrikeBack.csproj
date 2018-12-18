@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>BarracksWars_TheCommandsStrikeBack</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="P03_BarraksWars.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\bin\Debug\netcoreapp2.1\BarrackWars-ANewFactory.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\bin\Debug\netcoreapp2.1\BarrackWars-ANewFactory.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\bin\Debug\netcoreapp2.1\BarrackWars-ANewFactory.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\bin\Debug\netcoreapp2.1\BarrackWars-ANewFactory.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\bin\Debug\netcoreapp2.1\BarrackWars-ANewFactory.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\obj\Debug\netcoreapp2.1\BarrackWars-ANewFactory.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\obj\Debug\netcoreapp2.1\BarrackWars-ANewFactory.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\obj\Debug\netcoreapp2.1\BarrackWars-ANewFactory.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\obj\Debug\netcoreapp2.1\BarrackWars-ANewFactory.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\obj\Debug\netcoreapp2.1\BarrackWars-ANewFactory.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection and Attributes Exercises\BarrackWars-ANewFactory\obj\Debug\netcoreapp2.1\BarrackWars-ANewFactory.pdb

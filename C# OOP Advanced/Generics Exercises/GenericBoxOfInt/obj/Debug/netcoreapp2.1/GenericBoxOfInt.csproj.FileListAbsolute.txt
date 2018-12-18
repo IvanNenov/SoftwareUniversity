@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\bin\Debug\netcoreapp2.1\GenericBoxOfInt.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\bin\Debug\netcoreapp2.1\GenericBoxOfInt.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\bin\Debug\netcoreapp2.1\GenericBoxOfInt.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\bin\Debug\netcoreapp2.1\GenericBoxOfInt.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\bin\Debug\netcoreapp2.1\GenericBoxOfInt.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\obj\Debug\netcoreapp2.1\GenericBoxOfInt.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\obj\Debug\netcoreapp2.1\GenericBoxOfInt.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\obj\Debug\netcoreapp2.1\GenericBoxOfInt.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\obj\Debug\netcoreapp2.1\GenericBoxOfInt.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericBoxOfInt\obj\Debug\netcoreapp2.1\GenericBoxOfInt.pdb

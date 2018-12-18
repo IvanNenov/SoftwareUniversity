@@ -1,0 +1,11 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\bin\Debug\netcoreapp2.1\ComparableBook.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Iterators and Comparators Lab\ComparableBook\obj\Debug\netcoreapp2.1\ComparableBook.pdb

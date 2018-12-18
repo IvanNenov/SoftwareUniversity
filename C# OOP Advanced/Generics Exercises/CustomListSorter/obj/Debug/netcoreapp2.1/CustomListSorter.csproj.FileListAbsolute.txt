@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\bin\Debug\netcoreapp2.1\CustomListSorter.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\CustomListSorter\obj\Debug\netcoreapp2.1\CustomListSorter.pdb

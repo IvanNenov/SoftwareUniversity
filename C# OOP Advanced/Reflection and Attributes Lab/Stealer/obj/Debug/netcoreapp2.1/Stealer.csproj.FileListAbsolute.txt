@@ -1,0 +1,11 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\bin\Debug\netcoreapp2.1\Stealer.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\bin\Debug\netcoreapp2.1\Stealer.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\bin\Debug\netcoreapp2.1\Stealer.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\bin\Debug\netcoreapp2.1\Stealer.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\obj\Debug\netcoreapp2.1\Stealer.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\obj\Debug\netcoreapp2.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\obj\Debug\netcoreapp2.1\Stealer.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\obj\Debug\netcoreapp2.1\Stealer.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Reflection Lab\Stealer\obj\Debug\netcoreapp2.1\Stealer.pdb

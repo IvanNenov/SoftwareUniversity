@@ -1,0 +1,10 @@
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.deps.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\bin\Debug\netcoreapp2.1\GenericSwapMethodIntegers.pdb
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.dll
+C:\Users\Ivan Nenov\C# OOP Advanced\Generics Exercises\GenericSwapMethodIntegers\obj\Debug\netcoreapp2.1\GenericSwapMethodIntegers.pdb
