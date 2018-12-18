@@ -1,0 +1,22 @@
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.deps.json
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.json
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.pdb
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfo.cs
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\Ivan Nenov\Desktop\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.pdb
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.deps.json
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.json
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.dev.json
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.pdb
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csprojAssemblyReference.cache
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfoInputs.cache
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfo.cs
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\Ivan Nenov\C# OOP Basic Softuni\AnimalCentre\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.pdb
